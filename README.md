@@ -12,5 +12,10 @@ The primary objectives of this project remain the same:
 
 In summary, the FluShot Insights Dashboard serves as a valuable tool for demonstrating data analysis and visualization skills using synthetically generated data. It showcases the application of SQL data preparation techniques and the creation of a meaningful Tableau dashboard, which can be further extended to real-world scenarios with actual patient data for more accurate insights.
 
-#Tableau Dashboard
+# Tableau Dashboard
 Tableau link : https://public.tableau.com/app/profile/clay.ton/viz/FluShotsDashboard_16918296791950/Dashboard1
+
+# Acknowledgment
+I would like to acknowledge the Synthea project (https://synthea.mitre.org/) for providing the synthetic healthcare data used in this project. Additionally, I thank the Data Wizardry website (https://www.datawizardry.io/) for facilitating access to the synthetic dataset. This project relies on synthetic data, ensuring privacy and ethical considerations are maintained while allowing us to develop and showcase data analysis and visualization skills.
+
+Please note that all data used in this project is synthetically generated and does not contain real patient information. It is intended solely for educational and demonstration purposes.
