@@ -16,6 +16,6 @@ In summary, the FluShot Insights Dashboard serves as a valuable tool for demonst
 Tableau link : https://public.tableau.com/app/profile/clay.ton/viz/FluShotsDashboard_16918296791950/Dashboard1
 
 # Acknowledgment
-I would like to acknowledge the Synthea project (https://synthea.mitre.org/) for providing the synthetic healthcare data used in this project. Additionally, I thank the Data Wizardry website (https://www.datawizardry.io/) for facilitating access to the synthetic dataset. This project relies on synthetic data, ensuring privacy and ethical considerations are maintained while allowing us to develop and showcase data analysis and visualization skills.
+I would like to acknowledge the Synthea project (https://synthea.mitre.org/) for providing the synthetic healthcare data used in this project. Additionally, I thank the Data Wizardry website (https://datawizardry.academy/p/sql_basics_healthcare) for facilitating access to the synthetic dataset. This project relies on synthetic data, ensuring privacy and ethical considerations are maintained while allowing us to develop and showcase data analysis and visualization skills.
 
 Please note that all data used in this project is synthetically generated and does not contain real patient information. It is intended solely for educational and demonstration purposes.
