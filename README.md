@@ -1,5 +1,4 @@
 # FluShot Insights Dashboard for 2022
-Note all of the data is synthetically generated (i.e. fake), and comes from a project called Synthea. No real patient data was used in this lesson.
 
 # Overview
 The FluShot Insights Dashboard for 2022 is a data analysis and visualization project to provide comprehensive insights into flu vaccination trends within our hospital's active patient population. By leveraging SQL data preparation techniques and Tableau for visualization, this project addresses the need to monitor and analyze flu shot distribution, patient demographics, and overall vaccination progress throughout 2022.
