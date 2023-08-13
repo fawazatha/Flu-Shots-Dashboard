@@ -11,3 +11,6 @@ The primary objectives of this project remain the same:
 - The requirement for this project remains consistent: patients must have been "Active at our hospital" within the specified date range, as defined by the synthetic data. This ensures that the analysis focuses on relevant synthetic patient data.
 
 In summary, the FluShot Insights Dashboard serves as a valuable tool for demonstrating data analysis and visualization skills using synthetically generated data. It showcases the application of SQL data preparation techniques and the creation of a meaningful Tableau dashboard, which can be further extended to real-world scenarios with actual patient data for more accurate insights.
+
+#Tableau Dashboard
+Tableau link : https://public.tableau.com/app/profile/clay.ton/viz/FluShotsDashboard_16918296791950/Dashboard1
