@@ -20,6 +20,8 @@ Here are the main insights or findings from the dashboard:
 
 Tableau link : https://public.tableau.com/app/profile/clay.ton/viz/FluShotsDashboard_16918296791950/Dashboard1
 
+![Dashboard 1](https://github.com/fawazatha/Flu-Shots-Dashboard/assets/132468764/298b1460-5f9c-4553-82e8-456e0a3b4761)
+
 # Acknowledgment
 I would like to acknowledge the Synthea project (https://synthea.mitre.org/) for providing the synthetic healthcare data used in this project. Additionally, I thank the Data Wizardry website (https://datawizardry.academy/p/sql_basics_healthcare) for facilitating access to the synthetic dataset. This project relies on synthetic data, ensuring privacy and ethical considerations are maintained while allowing us to develop and showcase data analysis and visualization skills.
 
