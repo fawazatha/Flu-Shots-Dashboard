@@ -24,4 +24,4 @@ Tableau link : https://public.tableau.com/app/profile/clay.ton/viz/FluShotsDashb
 # Acknowledgment
 I would like to acknowledge the Synthea project (https://synthea.mitre.org/) for providing the synthetic healthcare data used in this project. Additionally, I thank the Data Wizardry website (https://datawizardry.academy/p/sql_basics_healthcare) for facilitating access to the synthetic dataset. This project relies on synthetic data, ensuring privacy and ethical considerations are maintained while allowing us to develop and showcase data analysis and visualization skills.
 
-Please note that all data used in this project is synthetically generated and does not contain real patient information. It is intended solely for educational and demonstration purposes.
+*Please note that all data used in this project is synthetically generated and does not contain real patient information. It is intended solely for educational and demonstration purposes.
