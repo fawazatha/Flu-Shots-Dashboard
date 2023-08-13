@@ -17,6 +17,7 @@ Here are the main insights or findings from the dashboard:
 - The distribution of flu shots was not uniform across all counties. Some counties had a much higher number of flu shots given than others. This may be due to a number of factors, such as the population size of the county, the availability of flu shots, and the outreach efforts of local health departments.
 - The number of flu shots given increased steadily throughout the year. This is also good news, as it shows that the flu vaccination program is gaining momentum. The peak number of flu shots was given in November, which is typically the month when the flu season is at its peak.
 - The flu shot compliance rate was high overall, with all races and age groups having a compliance rate of at least 80%. This is good news, as it shows that the flu vaccination program is reaching a large number of people. 
+
 Tableau link : https://public.tableau.com/app/profile/clay.ton/viz/FluShotsDashboard_16918296791950/Dashboard1
 
 # Acknowledgment
